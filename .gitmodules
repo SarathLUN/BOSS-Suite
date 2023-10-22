@@ -1,3 +1,6 @@
 [submodule "01-back-end/be-01-authentication"]
 	path = 01-back-end/be-01-authentication
 	url = git@github.com:SarathLUN/Back-end-Authentication-Service.git
+[submodule "02-proxy"]
+	path = 02-proxy
+	url = git@github.com:SarathLUN/02-proxy.git
