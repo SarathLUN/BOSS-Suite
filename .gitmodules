@@ -4,3 +4,6 @@
 [submodule "02-proxy"]
 	path = 02-proxy
 	url = git@github.com:SarathLUN/02-proxy.git
+[submodule "03-front-end/front-end"]
+	path = 03-front-end/front-end
+	url = git@github.com:SarathLUN/front-end.git
