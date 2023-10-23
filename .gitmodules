@@ -7,3 +7,6 @@
 [submodule "03-front-end/front-end"]
 	path = 03-front-end/front-end
 	url = git@github.com:SarathLUN/front-end.git
+[submodule "02-protobuf"]
+	path = 02-protobuf
+	url = git@github.com:SarathLUN/02-protobuf.git
